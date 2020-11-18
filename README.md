@@ -1,3 +1,5 @@
-# Abacus
-This a one of the games we plan to make on unity on an app known as EduGames
-This is a mathematical board game for children in the age group 6-11 years and will help in strengthen the core of maths
+# Cool-Math
+A Cool Educational game for kids aged 6-12 made from scratch using Unity3D.<br />
+<br />
+To get started, download the repo and open using Unity3D v2018.1.1 or higher.<br />
+From the project hierarchy, remove the unknown scene and drag the <b>mainMenu.unity</b> from /Assets/Scenes.
